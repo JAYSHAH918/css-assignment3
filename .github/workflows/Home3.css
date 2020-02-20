@@ -1,0 +1,28 @@
+﻿body {
+}
+.content12{
+    background-image:url("Assignment-3-img.jpg");
+    height:200px;
+  //  border:thick;
+}
+
+.content1{
+    border:1px solid black;
+   // border-style:thick;
+   // border-color:black;
+}
+
+.content22 {
+    background-image: url("Assignment-3-img.jpg");
+    background-position:bottom;
+    height:200px;
+}
+.content2{
+    border:2px solid black;
+}
+
+img{
+    align-self:center;
+    margin-left:33%;
+    margin-right:33%;
+}
